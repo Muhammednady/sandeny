@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Path" width="24" height="24" fill="rgba(255,255,255,0)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_13" data-name="Mask Group 13" clip-path="url(#clip-path)">
+    <g id="doctor-stethoscope-svgrepo-com" transform="translate(2.549 2.713)">
+      <circle id="Ellipse_118" data-name="Ellipse 118" cx="1.202" cy="1.202" r="1.202" transform="translate(7.824 0)" fill="#038da0"/>
+      <circle id="Ellipse_119" data-name="Ellipse 119" cx="1.202" cy="1.202" r="1.202" transform="translate(11.465 0)" fill="#038da0"/>
+      <path id="Path_46371" data-name="Path 46371" d="M16.367,1.9A2.46,2.46,0,0,0,14.2.606v.916a1.592,1.592,0,0,1,1.4.84,1.717,1.717,0,0,1,0,1.679L12.77,9.135a1.589,1.589,0,0,1-2.8,0L7.133,4.041a1.717,1.717,0,0,1,0-1.679,1.592,1.592,0,0,1,1.4-.84V.606A2.46,2.46,0,0,0,6.369,1.9a2.653,2.653,0,0,0,0,2.6L9.2,9.593a2.474,2.474,0,0,0,1.724,1.257v2.457c0,2.4-1.365,4.353-3.043,4.353s-3.043-1.953-3.043-4.353V10.381A2.3,2.3,0,0,0,4.4,5.851,2.25,2.25,0,0,0,2.2,8.139a2.273,2.273,0,0,0,1.763,2.242v2.925c0,2.9,1.761,5.268,3.925,5.268s3.925-2.363,3.925-5.268V10.85a2.474,2.474,0,0,0,1.724-1.257L16.367,4.5A2.652,2.652,0,0,0,16.367,1.9Z" fill="#038da0" stroke="#038da0" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

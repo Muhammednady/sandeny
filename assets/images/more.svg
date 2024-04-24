@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="More_Square" data-name="More Square" transform="translate(20) rotate(90)">
+    <path id="More_Square-2" data-name="More Square" d="M14.34,20H5.67C2.279,20,0,17.625,0,14.09V5.92C0,2.379,2.279,0,5.67,0h8.67C17.725,0,20,2.379,20,5.92v8.17C20,17.625,17.725,20,14.34,20Zm.14-11.2A1.2,1.2,0,1,0,15.67,10,1.2,1.2,0,0,0,14.48,8.8ZM10,8.8A1.2,1.2,0,1,0,11.2,10,1.2,1.2,0,0,0,10,8.8Zm-4.48,0A1.2,1.2,0,1,0,6.72,10,1.2,1.2,0,0,0,5.52,8.8Z" transform="translate(0 0)" fill="#3a3b55"/>
+  </g>
+</svg>

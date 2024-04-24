@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="prescription" transform="translate(-147.177 -172)">
+    <g id="Group_74709" data-name="Group 74709" transform="translate(118.632 143)">
+      <circle id="Ellipse_115" data-name="Ellipse 115" cx="50" cy="50" r="50" transform="translate(28.545 29)" fill="#fff"/>
+      <g id="comment-Filled" transform="translate(53.545 54)">
+        <rect id="Path" width="50" height="50" fill="rgba(255,255,255,0)"/>
+        <path id="comment-Filled_1_" d="M437.083,2781.876v12.5a9.387,9.387,0,0,1-9.375,9.375h-21.19a3.111,3.111,0,0,0-2.21.915l-5.029,5.029a1.042,1.042,0,0,1-.737.3,1.055,1.055,0,0,1-.4-.08,1.041,1.041,0,0,1-.644-.962v-27.083a9.386,9.386,0,0,1,9.375-9.375h20.833A9.389,9.389,0,0,1,437.083,2781.876Z" transform="translate(-392.292 -2765.209)" fill="#038da0"/>
+      </g>
+    </g>
+  </g>
+</svg>

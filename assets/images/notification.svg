@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="25" viewBox="0 0 24 25">
+  <g id="Group_74744" data-name="Group 74744" transform="translate(-28 -73)">
+    <g id="bell-Filled" transform="translate(28 74)">
+      <rect id="Path" width="24" height="24" fill="rgba(255,255,255,0)"/>
+      <path id="bell-Filled_1_" d="M213,2645h4a2,2,0,0,1-4,0Zm10.242-4.225-1.106-1.846a4.5,4.5,0,0,1-.64-2.312v-2.627a6.495,6.495,0,0,0-12.99,0v2.627a4.5,4.5,0,0,1-.64,2.312l-1.106,1.846a1.8,1.8,0,0,0,1.545,2.725H221.7a1.8,1.8,0,0,0,1.543-2.725Z" transform="translate(-203 -2625)" fill="#038da0"/>
+    </g>
+    <g id="Group_74743" data-name="Group 74743" transform="translate(0 2)">
+      <circle id="Ellipse_123" data-name="Ellipse 123" cx="7" cy="7" r="7" transform="translate(36 71)" fill="#f01d1d"/>
+      <text id="_1" data-name="1" transform="translate(43 81)" fill="#fff" font-size="9" font-family="Montserrat-Arabic-SemiBold, Montserrat-Arabic" font-weight="600" letter-spacing="-0.024em"><tspan x="-1.768" y="0">1</tspan></text>
+    </g>
+  </g>
+</svg>

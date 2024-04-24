@@ -1,0 +1,12 @@
+<svg id="video-Filled" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Path" width="24" height="24" fill="rgba(255,255,255,0)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_10" data-name="Mask Group 10" clip-path="url(#clip-path)">
+    <g id="refresh-svgrepo-com" transform="translate(-1 0)">
+      <path id="Path_46364" data-name="Path 46364" d="M15.053,4.367A7.959,7.959,0,0,0,4.211.955a.654.654,0,0,0,.611,1.157,6.673,6.673,0,1,1,6.186,11.827,6.648,6.648,0,0,1-8.744-2.317l2.264.475A.661.661,0,0,0,4.8,10.8L.786,9.983a.68.68,0,0,0-.781.75l.51,4.057a.635.635,0,0,0,.647.58.7.7,0,0,0,.647-.783l-.2-1.655a8.117,8.117,0,0,0,10.045,2.235A7.967,7.967,0,0,0,15.053,4.367Z" transform="translate(5 3.966)" fill="#038da0" stroke="#038da0" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

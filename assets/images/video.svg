@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="121.046" height="100.494" viewBox="0 0 121.046 100.494">
+  <defs>
+    <filter id="Path_46342" x="8.603" y="13.158" width="112.443" height="87.336" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#f7ecff"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="video" transform="translate(-120.002 -287.041)">
+    <g id="Group_74681" data-name="Group 74681" transform="translate(-5.543 2.907)">
+      <path id="Path_46337" data-name="Path 46337" d="M126.119,91.92c-7.633-.3-14.909-3.134-21.846-6.229S90.46,79.167,83.006,77.527c-4.793-1.056-10.274-1.2-14.135,1.746-3.716,2.838-4.917,7.738-5.562,12.284-.486,3.421-.767,7.02.56,10.223.924,2.223,2.564,4.092,3.7,6.221,3.947,7.409,1.157,16.546-3.121,23.787-2.006,3.4-4.333,6.631-5.881,10.245s-2.265,7.753-.91,11.438c1.343,3.65,4.542,6.4,8.008,8.325,7.04,3.915,15.335,5.035,23.425,5.677,17.906,1.406,35.909.8,53.862.188a137.845,137.845,0,0,0,19.854-1.636c3.63-.656,7.378-1.7,10.013-4.2a10.62,10.62,0,0,0,1.933-12.577c-3.76-6.7-14.156-8.366-16.785-15.557-1.446-3.958.039-8.368,2.142-12.039,4.509-7.875,12.069-14.784,12.467-23.787a16.847,16.847,0,0,0-8.979-15.3c-5.889-3.07-14.056-2.682-18.4,2.391C140.72,90.177,132.858,92.188,126.119,91.92Z" transform="translate(68.606 207.299)" fill="#6c63ff" opacity="0.1"/>
+    </g>
+    <g id="Group_74701" data-name="Group 74701" transform="translate(117.254 292.165)">
+      <g transform="matrix(1, 0, 0, 1, 2.75, -5.12)" filter="url(#Path_46342)">
+        <path id="Path_46342-2" data-name="Path 46342" d="M99.563,161.7h94.443V92.359H99.563Z" transform="translate(-81.96 -70.2)" fill="#fff"/>
+      </g>
+      <path id="Path_46344" data-name="Path 46344" d="M10.464,79.215h-.7V8.61h94.446v.732H10.464Z" fill="#603881"/>
+      <ellipse id="Ellipse_114" data-name="Ellipse 114" cx="23.605" cy="23.779" rx="23.605" ry="23.779" transform="translate(42.824 26.996)" fill="#fff"/>
+      <path id="Path_46347" data-name="Path 46347" d="M69.014,44.165v24L88.6,56Z" transform="translate(-9.31 -4.864)" fill="#038da0"/>
+    </g>
+  </g>
+</svg>
